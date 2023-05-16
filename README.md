@@ -33,3 +33,15 @@ Install a Bluetooth terminal app on your mobile device and establish a connectio
 Test the voice control functionality.
 
 Send voice commands from your mobile device to the Arduino via the Bluetooth terminal app and observe how the motors respond.
+
+
+
+
+
+
+
+Stuff you need:
+Arduino Uno : http://buy.flyrobo.in/uno
+L298N Module : http://buy.flyrobo.in/hc05
+Bluetooth Module HC-05 : http://buy.flyrobo.in/l298n
+300RPM Motor : http://buy.flyrobo.in/dc300
